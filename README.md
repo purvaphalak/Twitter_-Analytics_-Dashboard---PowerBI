@@ -11,22 +11,22 @@
 - [Dashboard](#dashboard)
 
 
-### Introduction :-
+### ➡️ Introduction :-
 
--This project focuses on analyzing Twitter data to help us understand social media engagement and performance better. 
+- This project focuses on analyzing Twitter data to help us understand social media engagement and performance better. 
 
--By exploring various metrics, such as impressions, engagements, and interactions, this dashboard helps provide insights that can drive better decision-making for content strategy.
+- By exploring various metrics, such as impressions, engagements, and interactions, this dashboard helps provide insights that can drive better decision-making for content strategy.
 
-### Data Source 
+### ➡️ Data Source 
 
 Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=SocialMedia.csv
 
-### Tools 
+### ➡️ Tools 
 
 - PowerBI- Data Cleaning, Data Transformation, Creating Dashboards & Data Visualization
 
 
-### Background:-
+### ➡️ Background:-
 
 - In today’s digital world, social media platforms like Twitter play a crucial role in brand communication and user engagement. 
 
@@ -34,7 +34,7 @@ Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/fil
 
 - This project aims to create a comprehensive Twitter Analytics Dashboard to track these activities and understand the trends that drive engagement.
 
-### Learning Objectives :-
+### ➡️ Learning Objectives :-
 
 - To gain practical skills in data analysis and visualization using Power BI.
 
@@ -42,7 +42,7 @@ Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/fil
 
 - To learn how to handle real-world social media data and create meaningful visualizations for reporting purposes.
 
-### Activities :-
+### ➡️ Activities :-
 
 - Here’s a detailed breakdown of each activity you completed in the data preparation phase:
 
@@ -83,18 +83,18 @@ To allow targeted data analysis, several filters were added:
 - These filters enable viewers to dynamically adjust the visualizations for different analytical needs, such as identifying weekday vs. weekend performance or focusing on tweets with high impressions.
 - These steps provided a clean and structured dataset, along with powerful visualizations and flexible filtering, allowing for comprehensive Twitter analytics.
 
-### TASKS :-
+### ➡️ TASKS :-
 
-#### ➡️ TASK-1
+#### 💠 TASK-1
 - Create a visual that shows the average engagement rate and total impressions for tweets posted between '01- 01-2020' and '30-06-2020'. Filter out tweets that received fewer than 100 impressions and like should be 0 and this graph should work only between 3Pm to 5 PM IST apart from that we should not show the graph.
 
-#### ➡️ TASK-2
+#### 💠 TASK-2
 - Build a chart to identify the top 10 tweets by the sum of retweets and likes. Filter out tweets posted on weekends and show the user profile that posted each tweet and this graph should work between 3 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30.
 
-#### ➡️ TASK-3
+#### 💠 TASK-3
 - Analyse tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays and this graph should work between 12 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 40.
 
-### Project dashboard includes:-
+###➡️ Project dashboard includes:-
 
 - Sheet 1: Tweets Analysis
 - Sheet 2: Enagagement Analysis
@@ -174,7 +174,7 @@ Both tweets and impressions are lower on weekends, which might suggest a strateg
 This dashboard, created in Power BI, provides a detailed view of how tweets perform over time, by day, and based on tweet characteristics (e.g., with media). It can be used to refine social media strategies, identifying the best times and types of content to engage the target audience.
 
 
-### Skills and Competencies ;-
+###➡️ Skills and Competencies ;-
 
 #### ➤ Data Analysis: 
 Extracting and processing data to create actionable insights.
@@ -188,13 +188,13 @@ Creating calculated columns, measures, and filters to refine data views.
 #### ➤ Time and Project Management: 
 Managing data, preparing visuals, and delivering a final product within deadlines.
 
-### Feedback and Evidence:-
+### ➡️ Feedback and Evidence:-
 
 - Upon completing the project, feedback was received highlighting the dashboard's usability, depth of insights, and design quality.
 
 - Evidence of improvement was reflected in the effectiveness of the visualizations and how they communicated key findings.
 
-### Challenges and Solutions:-
+### ➡️ Challenges and Solutions:-
 
 - Challenge: Applying complex filters (like time restrictions) to visualize specific metrics.
 Solution: Used DAX formulas to create calculated columns and applied custom filters for precise data segmentation.
@@ -202,13 +202,13 @@ Solution: Used DAX formulas to create calculated columns and applied custom filt
 -Challenge: Handling large datasets and ensuring smooth performance.
 Solution: Optimized data models and used aggregations to improve load times and visualization performance.
 
-### Outcomes and Impact :-
+###➡️  Outcomes and Impact :-
    
 - The dashboard successfully highlighted key trends in engagement, enabling better understanding and tracking of Twitter content performance.
   
 - It provided valuable insights for refining content strategies to increase reach and engagement.
 
-### Conclusion:-
+### ➡️ Conclusion:-
 
 - This project provided valuable experience in social media analytics, data visualization, and Power BI techniques. 
 
