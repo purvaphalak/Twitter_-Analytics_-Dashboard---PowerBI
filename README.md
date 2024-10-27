@@ -163,18 +163,96 @@ This metric shows the number of times media (e.g., photos, videos) within tweets
 ### ➡️ Overall Insights :-
 
 #### ➤ Tweeting Patterns: 
-Most tweets are sent out on weekdays and during the morning, targeting times when user activity may be higher.
+- Most tweets are sent out on weekdays and during the morning, targeting times when user activity may be higher.
 
 #### ➤ Engagement Trends: 
-Engagement rates are varied, with some tweets significantly outperforming others. Tweets that generate higher engagement rates may share common characteristics (like time of day, topic, or media type) that can guide future content strategy.
+- Engagement rates are varied, with some tweets significantly outperforming others.
+- Tweets that generate higher engagement rates may share common characteristics (like time of day, topic, or media type) that can guide future content strategy.
 
 #### ➤ Weekend Activity: 
-Both tweets and impressions are lower on weekends, which might suggest a strategic opportunity to either post less on weekends or experiment with content that appeals more to weekend users.
+- Both tweets and impressions are lower on weekends, which might suggest a strategic opportunity to either post less on weekends or experiment with content that appeals more to weekend users.
 
-This dashboard, created in Power BI, provides a detailed view of how tweets perform over time, by day, and based on tweet characteristics (e.g., with media). It can be used to refine social media strategies, identifying the best times and types of content to engage the target audience.
+- This dashboard, created in Power BI, provides a detailed view of how tweets perform over time, by day, and based on tweet characteristics (e.g., with media). It can be used to refine social media strategies, identifying the best times and types of content to engage the target audience.
+
+### Engagement Analysis
+
+This Twitter Analytics Dashboard provides a detailed analysis of tweets containing media (like images or videos) and their impact on engagement. Here’s a breakdown of each section and insights:
+
+- Top KPIs (Key Performance Indicators)
+
+- Total Media Views (89K):
+- This metric shows the total views of media content (photos, videos) within tweets.
+  
+- Engagement Rate for Media (15.41%):
+- The percentage of media tweets that received interactions, showing how engaging these tweets were.
+  
+- Tweets with Media (435):
+- The number of tweets containing media, indicating that a portion of the total tweets included visual content.
+  
+- Total Media Engagement (62K):
+- Shows total interactions (likes, retweets, replies) specifically on media tweets.
+  
+- Total Engagements (92K):
+- Represents overall interactions, including both media and non-media tweets.
+
+Visual Insights
+
+#### ➤ Engagement by Month:
+
+- Shows the distribution of likes, replies, and retweets each month, with July having the highest engagement.
+ 
+Insight: The spike in July could indicate either an increased volume of tweets or particularly engaging content during that period.
+
+#### ➤ Engagement Breakdown:
+
+- A pie chart that breaks down the types of engagements across all tweets:
+Likes make up 83% of total engagements, suggesting a preference for simply liking over more interactive engagements.
+- Retweets and Replies make up the remaining engagements.
+- Insight: Likes dominate as the primary form of engagement, showing a generally passive audience response.
+  
+#### ➤ Clicks Breakdown:
+
+Displays types of clicks:
+URL Clicks (50%) and Hashtag Clicks (45%) are the major forms of user interaction, while UserProfile Clicks are minimal.
+
+Insight: Users are actively engaging with URLs and hashtags, which can indicate interest in external content and trending topics.
+Media Views vs Media Engagement:
+
+#### ➤ Compares views to interactions on media content:
+
+Media Engagement is at 59%, while Media Views are at 41%.
+Insight: This indicates that a substantial number of viewers of media content are also engaging with it, suggesting that media in tweets drives significant interaction.
+
+#### ➤ Media Engagement and Media Views by Month:
+
+Tracks the monthly trends for media engagement and views.
+July again shows a high level of both media views and engagements, possibly due to a higher frequency of media-rich tweets or highly engaging media content during that time.
+Insight: This aligns with the general engagement trends, reinforcing that July had particularly engaging media content.
+
+#### ➤ Total Impressions and Average Engagement Rate by Tweets:
+
+A line and bar graph that shows impressions alongside the average engagement rate for top-performing tweets.
+Notable tweets have higher impressions and engagement rates, with a peak engagement rate of 17.71%.
+Insight: Tweets with high impressions do not always have the highest engagement rates, indicating that while visibility is important, it doesn’t guarantee interaction.
+
+### ➡️ Overall Insights :- 
+
+#### ➤ Monthly Trends: 
+July stands out as a highly engaging month for media content, suggesting that content posted in that month was particularly resonant with the audience.
+
+#### ➤ Engagement Preferences: 
+Likes are the dominant engagement type, followed by retweets and replies, suggesting that audiences are more inclined to show passive interest.
+
+#### ➤ Clicks: 
+High URL and hashtag clicks indicate users’ interest in external resources or related topics, making these effective tools for driving interaction.
+
+#### ➤ Media Content: 
+Media tweets (with photos or videos) perform well in terms of views and engagement, indicating the effectiveness of visual content in boosting engagement.
+
+This Power BI dashboard provides valuable insights into the performance of media tweets, helping to identify what works best in terms of engagement and visibility. These findings can guide future strategies for maximizing tweet reach and interaction.
 
 
-###➡️ Skills and Competencies ;-
+### ➡️ Skills and Competencies ;-
 
 #### ➤ Data Analysis: 
 Extracting and processing data to create actionable insights.
