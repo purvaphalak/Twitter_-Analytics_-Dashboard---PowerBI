@@ -238,7 +238,7 @@ A line and bar graph that shows impressions alongside the average engagement rat
 Notable tweets have higher impressions and engagement rates, with a peak engagement rate of 17.71%.
 Insight: Tweets with high impressions do not always have the highest engagement rates, indicating that while visibility is important, it doesn’t guarantee interaction.
 
-### ➡💠 Overall Insights :- 
+### 💠 Overall Insights :- 
 
 #### ➤ Monthly Trends: 
 July stands out as a highly engaging month for media content, suggesting that content posted in that month was particularly resonant with the audience.
