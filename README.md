@@ -1,21 +1,21 @@
 # Twitter Analytics Dashboard || Power-BI
 
-### ➡️ Introduction :-
+### 💠 Introduction :-
 
 - This project focuses on analyzing Twitter data to help us understand social media engagement and performance better. 
 
 - By exploring various metrics, such as impressions, engagements, and interactions, this dashboard helps provide insights that can drive better decision-making for content strategy.
 
-### ➡️ Data Source 
+### 💠 Data Source 
 
 Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/file?filename=SocialMedia.csv
 
-### ➡️ Tools 
+### 💠 Tools 
 
 - PowerBI- Data Cleaning, Data Transformation, Creating Dashboards & Data Visualization
 
 
-### ➡️ Background:-
+### 💠 Background:-
 
 - In today’s digital world, social media platforms like Twitter play a crucial role in brand communication and user engagement. 
 
@@ -23,7 +23,7 @@ Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/fil
 
 - This project aims to create a comprehensive Twitter Analytics Dashboard to track these activities and understand the trends that drive engagement.
 
-### ➡️ Learning Objectives :-
+### 💠 Learning Objectives :-
 
 - To gain practical skills in data analysis and visualization using Power BI.
 
@@ -31,7 +31,7 @@ Twitter Data : data.world/markbradbourne/rwfd-real-world-fake-data/workspace/fil
 
 - To learn how to handle real-world social media data and create meaningful visualizations for reporting purposes.
 
-### ➡️ Activities :-
+### 💠 Activities :-
 
 - Here’s a detailed breakdown of each activity you completed in the data preparation phase:
 
@@ -72,60 +72,62 @@ To allow targeted data analysis, several filters were added:
 - These filters enable viewers to dynamically adjust the visualizations for different analytical needs, such as identifying weekday vs. weekend performance or focusing on tweets with high impressions.
 - These steps provided a clean and structured dataset, along with powerful visualizations and flexible filtering, allowing for comprehensive Twitter analytics.
 
-### ➡️ TASKS :-
+### 💠 TASKS :-
 
-#### 💠 TASK-1
+#### ✅ TASK-1
 - Create a visual that shows the average engagement rate and total impressions for tweets posted between '01- 01-2020' and '30-06-2020'. Filter out tweets that received fewer than 100 impressions and like should be 0 and this graph should work only between 3Pm to 5 PM IST apart from that we should not show the graph.
 
 ![Screenshot 2024-10-28 164512](https://github.com/user-attachments/assets/2bae49bc-75fb-4aa6-849d-fb97d53ec548)
 
-#### 💠 TASK-2
+#### ✅ TASK-2
+
 - Build a chart to identify the top 10 tweets by the sum of retweets and likes. Filter out tweets posted on weekends and show the user profile that posted each tweet and this graph should work between 3 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30.
 
 ![Screenshot 2024-10-28 164523](https://github.com/user-attachments/assets/018e47ce-344a-41df-8dcc-aaf7d5b25dd6)
 
   
 
-#### 💠 TASK-3
+#### ✅ TASK-3
+
 - Analyse tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays and this graph should work between 12 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 40.
 
 ![Screenshot 2024-10-28 164534](https://github.com/user-attachments/assets/1d566829-2ea4-400b-aafe-b2c90d6468e1)
 
-###➡️ Project dashboard includes:-
+### 💠 Project dashboard includes:-
 
 - Sheet 1: Tweets Analysis
 - Sheet 2: Enagagement Analysis
 
-## Tweets Analysis
+## ✨ Tweets Analysis
 
 ![Screenshot 2024-10-27 194010](https://github.com/user-attachments/assets/4238413d-46df-4b49-a12b-a86270d0b4eb)
 
 - This Twitter Analytics Dashboard offers a clear overview of the key metrics and performance of tweets over a specific period. Here’s a breakdown of each section and the insights it provides:
 
-➤ Top KPIs (Key Performance Indicators)
+- Top KPIs (Key Performance Indicators):- 
 
-#### - Total Impressions (912K): 
+####  ➤ Total Impressions (912K): 
 This shows the total number of times tweets were viewed. A high impression count suggests good visibility.
   
-#### - Total Engagements (92K): 
+####  ➤ Total Engagements (92K): 
 This represents all actions taken on tweets (e.g., likes, retweets, comments), indicating how well tweets resonate with the audience.
   
-#### - Total Likes (8K): 
+#### ➤ Total Likes (8K): 
 Shows how many likes tweets received, giving an idea of the content's likability.
 
-#### - Total Tweets (1166): 
+####  ➤ Total Tweets (1166): 
 This is the total count of tweets analyzed in this period.
   
-#### - Average Engagement Rate (3.64%): 
+####  ➤ Average Engagement Rate (3.64%): 
 This percentage indicates the engagement relative to impressions—a good measure of tweet effectiveness.
   
-#### - Total Media Engagement (62K): 
+####  ➤ Total Media Engagement (62K): 
 Shows engagement with tweets containing media, like images or videos.
 
-####  - Total Media Views (89K): 
+####   ➤ Total Media Views (89K): 
 This metric shows the number of times media (e.g., photos, videos) within tweets was viewed.
   
-### ➡️ Visual Insights
+### 💠 Visual Insights
 
 #### ➤ Impressions by Weekday:
 
@@ -137,7 +139,7 @@ This metric shows the number of times media (e.g., photos, videos) within tweets
 - Thursday has the most tweets (230), followed by Tuesday and Wednesday, with the fewest tweets on Saturday and Sunday.
 - Insight: More tweets were posted on weekdays, likely to align with higher audience activity during workdays.
   
-### Project dashboard includes:-
+### 💠 Project dashboard includes:-
 
 #### ➤ Top 10 Tweets by URL Clicks:
 
@@ -159,7 +161,7 @@ This metric shows the number of times media (e.g., photos, videos) within tweets
 - Lists tweets with the highest engagement rates, with the top tweet reaching 34.53%.
 - Insight: Specific tweets engage the audience more effectively, suggesting these types of tweets resonate well with followers.
 
-### ➡️ Overall Insights :-
+### 💠 Overall Insights :-
 
 #### ➤ Tweeting Patterns: 
 - Most tweets are sent out on weekdays and during the morning, targeting times when user activity may be higher.
@@ -173,7 +175,7 @@ This metric shows the number of times media (e.g., photos, videos) within tweets
 
 - This dashboard, created in Power BI, provides a detailed view of how tweets perform over time, by day, and based on tweet characteristics (e.g., with media). It can be used to refine social media strategies, identifying the best times and types of content to engage the target audience.
 
-### Engagement Analysis
+## ✨ Engagement Analysis
 
 ![Screenshot 2024-10-27 194035](https://github.com/user-attachments/assets/496f6721-73f4-4854-b5f0-3e489220e7e3)
 
@@ -196,7 +198,7 @@ This Twitter Analytics Dashboard provides a detailed analysis of tweets containi
 - Total Engagements (92K):
 - Represents overall interactions, including both media and non-media tweets.
 
-Visual Insights
+#### 💠 Visual Insights :-
 
 #### ➤ Engagement by Month:
 
@@ -236,7 +238,7 @@ A line and bar graph that shows impressions alongside the average engagement rat
 Notable tweets have higher impressions and engagement rates, with a peak engagement rate of 17.71%.
 Insight: Tweets with high impressions do not always have the highest engagement rates, indicating that while visibility is important, it doesn’t guarantee interaction.
 
-### ➡️ Overall Insights :- 
+### ➡💠 Overall Insights :- 
 
 #### ➤ Monthly Trends: 
 July stands out as a highly engaging month for media content, suggesting that content posted in that month was particularly resonant with the audience.
@@ -253,7 +255,7 @@ Media tweets (with photos or videos) perform well in terms of views and engageme
 This Power BI dashboard provides valuable insights into the performance of media tweets, helping to identify what works best in terms of engagement and visibility. These findings can guide future strategies for maximizing tweet reach and interaction.
 
 
-### ➡️ Skills and Competencies ;-
+### 💠 Skills and Competencies ;-
 
 #### ➤ Data Analysis: 
 Extracting and processing data to create actionable insights.
@@ -267,13 +269,13 @@ Creating calculated columns, measures, and filters to refine data views.
 #### ➤ Time and Project Management: 
 Managing data, preparing visuals, and delivering a final product within deadlines.
 
-### ➡️ Feedback and Evidence:-
+### 💠 Feedback and Evidence:-
 
 - Upon completing the project, feedback was received highlighting the dashboard's usability, depth of insights, and design quality.
 
 - Evidence of improvement was reflected in the effectiveness of the visualizations and how they communicated key findings.
 
-### ➡️ Challenges and Solutions:-
+### 💠 Challenges and Solutions:-
 
 - Challenge: Applying complex filters (like time restrictions) to visualize specific metrics.
 Solution: Used DAX formulas to create calculated columns and applied custom filters for precise data segmentation.
@@ -281,13 +283,13 @@ Solution: Used DAX formulas to create calculated columns and applied custom filt
 -Challenge: Handling large datasets and ensuring smooth performance.
 Solution: Optimized data models and used aggregations to improve load times and visualization performance.
 
-###➡️  Outcomes and Impact :-
+### 💠 Outcomes and Impact :-
    
 - The dashboard successfully highlighted key trends in engagement, enabling better understanding and tracking of Twitter content performance.
   
 - It provided valuable insights for refining content strategies to increase reach and engagement.
 
-### ➡️ Conclusion:-
+### 💠 Conclusion:-
 
 - This project provided valuable experience in social media analytics, data visualization, and Power BI techniques. 
 
