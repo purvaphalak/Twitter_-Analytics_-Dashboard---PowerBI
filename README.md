@@ -1,15 +1,4 @@
-# Twitter Analytics Dashboard || PowerBI
-
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Data Source](#data-source)
-- [Tools](#tools)
-- [Data Preparation](#data-preparation)
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Insights](#insights)
-- [Recommendations](#recommendations)
-- [Dashboard](#dashboard)
-
+# Twitter Analytics Dashboard || Power-BI
 
 ### ➡️ Introduction :-
 
@@ -88,11 +77,19 @@ To allow targeted data analysis, several filters were added:
 #### 💠 TASK-1
 - Create a visual that shows the average engagement rate and total impressions for tweets posted between '01- 01-2020' and '30-06-2020'. Filter out tweets that received fewer than 100 impressions and like should be 0 and this graph should work only between 3Pm to 5 PM IST apart from that we should not show the graph.
 
+![Screenshot 2024-10-28 164512](https://github.com/user-attachments/assets/2bae49bc-75fb-4aa6-849d-fb97d53ec548)
+
 #### 💠 TASK-2
 - Build a chart to identify the top 10 tweets by the sum of retweets and likes. Filter out tweets posted on weekends and show the user profile that posted each tweet and this graph should work between 3 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 30.
 
+![Screenshot 2024-10-28 164523](https://github.com/user-attachments/assets/018e47ce-344a-41df-8dcc-aaf7d5b25dd6)
+
+  
+
 #### 💠 TASK-3
 - Analyse tweets to show a comparison of the engagement rate for tweets with app opens versus tweets without app opens. Include only tweets posted between 9 AM and 5 PM on weekdays and this graph should work between 12 PM to 6 PM and the tweet impression should be even number and tweet date should be odd number as well as tweet word count be below 40.
+
+![Screenshot 2024-10-28 164534](https://github.com/user-attachments/assets/1d566829-2ea4-400b-aafe-b2c90d6468e1)
 
 ###➡️ Project dashboard includes:-
 
@@ -100,6 +97,8 @@ To allow targeted data analysis, several filters were added:
 - Sheet 2: Enagagement Analysis
 
 ## Tweets Analysis
+
+![Screenshot 2024-10-27 194010](https://github.com/user-attachments/assets/4238413d-46df-4b49-a12b-a86270d0b4eb)
 
 - This Twitter Analytics Dashboard offers a clear overview of the key metrics and performance of tweets over a specific period. Here’s a breakdown of each section and the insights it provides:
 
@@ -175,6 +174,8 @@ This metric shows the number of times media (e.g., photos, videos) within tweets
 - This dashboard, created in Power BI, provides a detailed view of how tweets perform over time, by day, and based on tweet characteristics (e.g., with media). It can be used to refine social media strategies, identifying the best times and types of content to engage the target audience.
 
 ### Engagement Analysis
+
+![Screenshot 2024-10-27 194035](https://github.com/user-attachments/assets/496f6721-73f4-4854-b5f0-3e489220e7e3)
 
 This Twitter Analytics Dashboard provides a detailed analysis of tweets containing media (like images or videos) and their impact on engagement. Here’s a breakdown of each section and insights:
 
